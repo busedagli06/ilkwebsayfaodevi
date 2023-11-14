@@ -1,3 +1,39 @@
-# ilkwebsayfaodevi
-İlk Web Sayfası
+<h1> Buse Dağlı</h1>
+<!-- Genel Bilgiler -->
+<h2> Hakkımda</h2>
+<p> Merhaba! Ben Buse Dağlı Ankara doğumluyum aynı zamanda Ankara'da yaşıyorum.23 yaşındayım. Bartın Üniversitesi Bilgisayar Programcılığı alanında 2021 yılında mezun oldum. Şu an İstanbul Üniversitesi Grafik Tasarım alanında okumaktayım.</p>
+<!-- İlgi Alanları Hobiler -->
+<h3>İlgi Alanlarım</h3>
+İlgi alanlarım oldukça çeşitlidir. Sanat ve yaratıcılık konularına ilgim var ve resim yapma gibi aktivitelerle uğraşırım. Benim için hem bir tutku hem de bir rahatlama kaynağıdır. Web Geliştirme ile ilgileniyorum. Aynı zamanda seyehat etmeyi, farklı kültürleri keşfetmeyi ve yeni yerler görmeyi seviyorum. Film, dizi izlemekten ve kitap okumaktan keyif alırım.<br><br>
+<h3> Sevdiğim Film, Dizi ve Kitaplar:</h3>
+<h4>Leon: The Proffesional</h4>
+
+<img src="https://cdna.artstation.com/p/assets/images/images/035/202/162/large/tayfun-dereli-leon.jpg?1614353312" alt="Leon The Proffesional" width="250" height="300">
+<p>Leon The Proffesional; Luc Besson tarafından yazılan ve yönetilen, 1994 yılı Fransa yapımı bir filmdir.</p>
+<ol> 
+    <li>Film 
+        <ul> 
+            <li> <a href="https://www.imdb.com/title/tt0110413/fullcredits"> The Proffesional</li></a>
+            <li>Scarface</li>
+            <li>The Prestige</li>
+        </ul>
+    </li>
+    <li>Dizi
+        <ul>   
+            <li> <a href="https://www.imdb.com/title/tt5753856/"> Dark</li></a>
+            <li>La Casa de Papel</li>
+            <li>Death Note</li>
+        </ul>
+    </li>
+    <li>Kitap
+        <ul>
+            <li> <a href="https://www.goodreads.com/tr/book/show/57555746"> Suç ve Ceza</li></a> 
+            <li>Şeker Portakalı</li>
+            <li>Kürk Mantolu Madonna</li>
+        </ul>
+    </li>
+</ol>
+
+
+
 
